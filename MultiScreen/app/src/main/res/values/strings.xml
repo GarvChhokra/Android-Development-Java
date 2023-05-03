@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Multi Screen</string>
+    <string name="heading">Welcome to Creative Restaurant</string>
+    <string name="headingorder">Orders from Creative Restaurant</string>
+    <string name="placeorder">Place Order</string>
+    <string name="wait">Please Wait..</string>
+    <string name="item1">Item 1</string>
+    <string name="item2">Item 2</string>
+    <string name="item3">Item 3</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

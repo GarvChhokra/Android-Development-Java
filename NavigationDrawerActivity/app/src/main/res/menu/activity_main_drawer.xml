@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inbox"
+            android:icon="@drawable/ic_baseline_inbox_24"
+            android:title="@string/menu_inbox" />
+        <item
+            android:id="@+id/nav_sent"
+            android:icon="@drawable/ic_baseline_send_24"
+            android:title="@string/menu_sent" />
+        <item
+            android:id="@+id/nav_drafts"
+            android:icon="@drawable/ic_baseline_drafts_24"
+            android:title="@string/menu_drafts" />
+        <item
+            android:id="@+id/nav_outbox"
+            android:icon="@drawable/ic_baseline_check_box_outline_blank_24"
+            android:title="@string/menu_outbox" />
+    </group>
+</menu>

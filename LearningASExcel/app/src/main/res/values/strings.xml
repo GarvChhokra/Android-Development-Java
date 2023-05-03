@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Learning ASExcel</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="amount">Amount</string>
+    <string name="repair_part">Repair Part</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="date">Date</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Using DataBase</string>
+    <string name="heading">DATABASE - SQLite</string>
+</resources>

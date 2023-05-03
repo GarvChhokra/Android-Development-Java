@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_aboutus">About Us</string>
+
+    <string name="menu_inbox">Inbox</string>
+    <string name="menu_sent">Send</string>
+    <string name="menu_drafts">Drafts</string>
+    <string name="menu_outbox">Outbox</string>
+</resources>

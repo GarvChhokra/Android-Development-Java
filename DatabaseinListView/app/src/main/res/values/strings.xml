@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Database in ListView</string>
+    <string name="heading">Database in our ListView</string>
+</resources>

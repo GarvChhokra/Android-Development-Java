@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FA1313</color>
+    <color name="purple_500">#E10B0B</color>  // for navbar
+    <color name="purple_700">#DF0F39</color>  // this is for where our mobile time shows
+    <color name="teal_200">#D60947</color> // for gmail logo background
+    <color name="teal_700">#018773</color>
+    <color name="black">#FFFFFF</color>  // for email logo
+    <color name="white">#F4F0F0</color>
+</resources>

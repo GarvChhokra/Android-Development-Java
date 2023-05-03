@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmbeddingVideo</string>
+    <string name="video">Module wrap up</string>
+    <string name="videoname">Coursera Web Development</string>
+    <string name="comments">Comments</string>
+    <string name="related_video">Related Videos :</string>
+    <string name="relatedvideoshow">Testing Mobile Version</string>
+    <string name="related_videoheading">Coursera Web Development: </string>
+</resources>

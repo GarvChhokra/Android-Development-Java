@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Seekbar</string>
+    <string name="heading">Seekbar - Control music voice</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="volume">Volume-Adjust:</string>
+    <string name="stop">Stop</string>
+</resources>

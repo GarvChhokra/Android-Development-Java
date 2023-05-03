@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToeMultiScreen</string>
+    <string name="heading">Welcome to Tic-Tac-Toe</string>
+    <string name="quitgame">Quit Game</string>
+    <string name="playGame">Play Game</string>
+    <string name="reset">Reset</string>
+    <string name="turn">X Turn - Tap to Play!!</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "Excel Android Connect"
+include ':app'

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="tictactoe">Welome to Tic-Tac-Toe</string>
+    <string name="reset">Reset</string>
+    <string name="quitGame">Quit Game</string>
+    <string name="xTurn">X Turn - Tap to Play!!</string>
+</resources>
